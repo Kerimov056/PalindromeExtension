@@ -1,0 +1,15 @@
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\bin\Debug\net6.0\PalindromeExtension.exe
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\bin\Debug\net6.0\PalindromeExtension.deps.json
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\bin\Debug\net6.0\PalindromeExtension.runtimeconfig.json
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\bin\Debug\net6.0\PalindromeExtension.dll
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\bin\Debug\net6.0\PalindromeExtension.pdb
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\PalindromeExtension.csproj.AssemblyReference.cache
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\PalindromeExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\PalindromeExtension.AssemblyInfoInputs.cache
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\PalindromeExtension.AssemblyInfo.cs
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\PalindromeExtension.csproj.CoreCompileInputs.cache
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\PalindromeExtension.dll
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\refint\PalindromeExtension.dll
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\PalindromeExtension.pdb
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\PalindromeExtension.genruntimeconfig.cache
+C:\Users\KINO\Desktop\StartWork\PalindromeExtension\PalindromeExtension\obj\Debug\net6.0\ref\PalindromeExtension.dll
